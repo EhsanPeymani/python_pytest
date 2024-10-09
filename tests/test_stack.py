@@ -1,5 +1,7 @@
-from src.stack import Stack
 import pytest
+
+from src.stack import Stack
+
 
 @pytest.fixture
 def stack():
