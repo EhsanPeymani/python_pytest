@@ -2593,3 +2593,13 @@ venv/lib/python3.12/site-packages/pytest_cov-5.0.0.dist-info/top_level.txt
 venv/lib/python3.12/site-packages/pytest_cov-5.0.0.dist-info/WHEEL
 .vscode/settings.json
 .coverage
+src/__pycache__/format_data.cpython-312.pyc
+tests/__pycache__/conftest.cpython-312-pytest-8.3.3.pyc
+tests/__pycache__/test_format_data.cpython-312-pytest-8.3.3.pyc
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/entry_points.txt
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/INSTALLER
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/LICENSE.txt
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/METADATA
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/RECORD
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/top_level.txt
+venv/lib/python3.12/site-packages/coverage-7.6.2.dist-info/WHEEL
