@@ -2,6 +2,7 @@ import pytest
 from unittest.mock import patch, MagicMock
 from src.my_class import MyClass
 
+
 # method 1 
 def test_my_method_using_patch_as_context_manager():
     with patch('src.my_class.MyClass.method_one') as mock_method:

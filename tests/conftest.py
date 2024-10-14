@@ -2,7 +2,7 @@ import pytest
 
 
 @pytest.fixture
-def global_data():
+def global_data(autouse=False):
     return [
         {
             "given_name": "Ehsan",
